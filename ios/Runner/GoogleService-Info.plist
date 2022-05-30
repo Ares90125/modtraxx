@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309500240885-v7cckt4023p2eao8nh2io4adeusmff8b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309500240885-v7cckt4023p2eao8nh2io4adeusmff8b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>309500240885-leva6ohocbc1vjilknkcf5t5q3jvr1ht.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATWZfFXvtkXtOLFG04Pwau69WSGzXymnU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309500240885</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.moodtraxx</string>
+	<key>PROJECT_ID</key>
+	<string>mood-traxx</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mood-traxx.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309500240885:ios:fbf38f3158b13b4d7e36bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://mood-traxx-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

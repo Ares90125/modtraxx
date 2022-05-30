@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "309500240885",
+    "firebase_url": "https://mood-traxx-default-rtdb.firebaseio.com",
+    "project_id": "mood-traxx",
+    "storage_bucket": "mood-traxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309500240885:android:a3be8b58184621437e36bc",
+        "android_client_info": {
+          "package_name": "Mood.Traxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309500240885-scf7hn2388606a334lrdq43tnanntq8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Mood.Traxx",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "309500240885-kt0cn9d2jeo38rhhav2tbodhtjjees63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjSyHfJIm3sMfIV7eT3wxPm5zcucCmNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309500240885-kt0cn9d2jeo38rhhav2tbodhtjjees63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309500240885-oqr5ck8rastfaec8785ov7bgkmktg4ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "MoodTraxx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309500240885:android:4a88ee86bd91b5fa7e36bc",
+        "android_client_info": {
+          "package_name": "com.flutterflow.moodtraxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309500240885-leva6ohocbc1vjilknkcf5t5q3jvr1ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.moodtraxx",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "309500240885-kt0cn9d2jeo38rhhav2tbodhtjjees63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjSyHfJIm3sMfIV7eT3wxPm5zcucCmNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309500240885-kt0cn9d2jeo38rhhav2tbodhtjjees63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309500240885-oqr5ck8rastfaec8785ov7bgkmktg4ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "MoodTraxx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
